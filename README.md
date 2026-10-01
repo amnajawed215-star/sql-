@@ -1,2 +1,6 @@
-# sql-
-Movie database 
+name = "Amna"
+age= "20"
+
+print (name)
+print(age)
+
